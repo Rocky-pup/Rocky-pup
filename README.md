@@ -4,7 +4,7 @@
 ⚡ Fun fact: I learned JS on github.com</br>
 
 📫 How to reach me: [Discord](https://discord.gg/QSFk3rN492)</br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/913117505541775420)](https://discord.com/users/913117505541775420)</br>
+[![Rocky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rocky-pup)](https://github.com/anuraghazra/github-readme-stats)</br>
 
 <!--
 **Rocky-pup/Rocky-pup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
