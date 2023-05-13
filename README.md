@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 🔭 I’m currently working on discord bot named Erry</br>
+![](https://discord.c99.nl/widget/theme-1/924922244436750406.png) </br>
+
 ⚡ Fun fact: I learned JS on github.com</br>
 
 📫 How to reach me: [Discord](https://discord.gg/QSFk3rN492)</br>
