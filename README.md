@@ -5,7 +5,8 @@
 
 ⚡ Fun fact: I learnt JS on github.com</br>
 
-📫 How to reach me: [Discord Server](https://discord.fish/undefined)</br>
+📫 How to reach me: </br>
+[Discord Server](https://discord.fish/undefined)</br>
 ![](https://discord.c99.nl/widget/theme-1/913117505541775420.png) </br>
 Mail: rocky@erry.xyz
 
